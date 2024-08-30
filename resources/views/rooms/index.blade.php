@@ -253,6 +253,7 @@ table.table .avatar {
                         <a class="btn btn-sm btn-success" href="{{ route('rooms.create') }}">Ajouter une chambre</a> 
                         <a class="btn btn-sm btn-success" href="{{ route('hotels.create') }}">Ajouter un hotel</a>                       
                     </div>
+                    
                 </div>
             </div>
             <table class="table table-striped table-hover">
